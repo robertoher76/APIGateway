@@ -1,20 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rober\\Desktop\\Guia 7 - DES\\APIGateway_MH181960\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{BF01A28C-6DEB-43E8-A681-98706DC66905}|APIGateway_MH181960.csproj|c:\\users\\rober\\desktop\\guia 7 - des\\apigateway_mh181960\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BF01A28C-6DEB-43E8-A681-98706DC66905}|APIGateway_MH181960.csproj|solutionrelative:ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF01A28C-6DEB-43E8-A681-98706DC66905}|APIGateway_MH181960.csproj|c:\\users\\rober\\desktop\\guia 7 - des\\apigateway_mh181960\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BF01A28C-6DEB-43E8-A681-98706DC66905}|APIGateway_MH181960.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF01A28C-6DEB-43E8-A681-98706DC66905}|APIGateway_MH181960.csproj|c:\\users\\rober\\desktop\\guia 7 - des\\apigateway_mh181960\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF01A28C-6DEB-43E8-A681-98706DC66905}|APIGateway_MH181960.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\rober\\Desktop\\APIGateway\\APIGateway_MH181960\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,46 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ocelot.json",
-              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\Guia 7 - DES\\APIGateway_MH181960\\ocelot.json",
-              "RelativeDocumentMoniker": "ocelot.json",
-              "ToolTip": "C:\\Users\\rober\\Desktop\\Guia 7 - DES\\APIGateway_MH181960\\ocelot.json",
-              "RelativeToolTip": "ocelot.json",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAG0AAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-30T21:51:56.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\Guia 7 - DES\\APIGateway_MH181960\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\rober\\Desktop\\Guia 7 - DES\\APIGateway_MH181960\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T21:51:52.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\Guia 7 - DES\\APIGateway_MH181960\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\rober\\Desktop\\Guia 7 - DES\\APIGateway_MH181960\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-30T21:51:49.213Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rober\\Desktop\\Guia 7 - DES\\APIGateway_MH181960\\APIGateway_MH181960.csproj": {}
+    "C:\\Users\\rober\\Desktop\\APIGateway\\APIGateway_MH181960\\APIGateway_MH181960.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rober\\Desktop\\Guia 7 - DES\\APIGateway_MH181960\\APIGateway_MH181960.csproj": {
+    "C:\\Users\\rober\\Desktop\\APIGateway\\APIGateway_MH181960\\APIGateway_MH181960.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rober\\Desktop\\Guia 7 - DES\\APIGateway_MH181960\\APIGateway_MH181960.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\Desktop\\APIGateway\\APIGateway_MH181960\\APIGateway_MH181960.csproj",
         "projectName": "APIGateway_MH181960",
-        "projectPath": "C:\\Users\\rober\\Desktop\\Guia 7 - DES\\APIGateway_MH181960\\APIGateway_MH181960.csproj",
+        "projectPath": "C:\\Users\\rober\\Desktop\\APIGateway\\APIGateway_MH181960\\APIGateway_MH181960.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rober\\Desktop\\Guia 7 - DES\\APIGateway_MH181960\\obj\\",
+        "outputPath": "C:\\Users\\rober\\Desktop\\APIGateway\\APIGateway_MH181960\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",

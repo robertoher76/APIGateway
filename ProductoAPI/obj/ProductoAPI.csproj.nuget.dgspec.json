@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rober\\Desktop\\Guia 7 - DES\\ProductoAPI\\ProductoAPI.csproj": {}
+    "C:\\Users\\rober\\Desktop\\APIGateway\\ProductoAPI\\ProductoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rober\\Desktop\\Guia 7 - DES\\ProductoAPI\\ProductoAPI.csproj": {
+    "C:\\Users\\rober\\Desktop\\APIGateway\\ProductoAPI\\ProductoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rober\\Desktop\\Guia 7 - DES\\ProductoAPI\\ProductoAPI.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\Desktop\\APIGateway\\ProductoAPI\\ProductoAPI.csproj",
         "projectName": "ProductoAPI",
-        "projectPath": "C:\\Users\\rober\\Desktop\\Guia 7 - DES\\ProductoAPI\\ProductoAPI.csproj",
+        "projectPath": "C:\\Users\\rober\\Desktop\\APIGateway\\ProductoAPI\\ProductoAPI.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rober\\Desktop\\Guia 7 - DES\\ProductoAPI\\obj\\",
+        "outputPath": "C:\\Users\\rober\\Desktop\\APIGateway\\ProductoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.OutputCaching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
